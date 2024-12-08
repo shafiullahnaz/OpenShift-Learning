@@ -1,0 +1,12 @@
+Openshift Local Setup:
+This documentation is based on the Openshift Local installation through code-ready container simple Single node installation
+System Requirement:
+
+    RHEL8 or RHEL9 Virtual Machine
+    Minimum 4 CPU & 12 GB RAM
+    32 GB Disk Space in /home
+    Virtualization Enabled
+    Internet-enabled on VM
+
+1. Install Dependencies:
+Install Network Manager, Libvirt, Qemu
